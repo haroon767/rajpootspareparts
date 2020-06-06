@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+   
+}
+
+
+
+.navbar{
+
+    background-color:#f70a0a !important;
+
+}
+
+
+.container{
+    display: inline-block;
+}
+
+.card{
+    height: 100px;
+}
+
+.about{
+    color: darkcyan;
+    background-color: darkgrey;
+}
+.HEAD{
+    color:rgb(212, 211, 211);
+    background-color:#f70a0a ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: rgb(15, 3, 3);
+}
+
+.con{
+    background-color: #fc0606;
+
+    color: whitesmoke
+   
+}
+
+.home{
+    background-color: ;
+    color: whitesmoke;
+}
+.end{
+    color: whitesmoke;
+    background-color: teal;
+    height: 100PX;
+}
+.CONT{
+    margin-top: 100px;
+}
+ 
+.img{
+    margin-top: 10px;
+}
+.INTRO{
+    color: teal;
+}
+
+.PARA{
+    font-size: medium;
+    margin-top: 20PX;
+    margin-left: 100PX;
+    margin-right: 100px;
+    align-items: center;
+    color: rgb(107, 107, 107);
+    
+}
+
+.honda70{
+
+    margin-top: 50PX;
+    
+    
+}
+.col-md-4{
+    margin-top: 20px;
+}
+.body70{
+    background-color: #f70a0a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
